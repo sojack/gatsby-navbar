@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `gatsbyV3`,
-    author: `tlagraphics`,
+    title: `GatsbyStarter`,
+    author: `jsDesigns`,
     description: `getting it started`,
     siteUrl: `http://testingitstill.com`,
   },

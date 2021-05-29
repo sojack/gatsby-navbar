@@ -2,6 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 import "@fontsource/open-sans";
 import "@fontsource/montserrat/600.css";
+import "@fontsource/proza-libre/600.css";
 
 const GlobalStyles = createGlobalStyle`
 	:root{
@@ -30,7 +31,7 @@ const GlobalStyles = createGlobalStyle`
 		max-width:100%;
 	}
 	h1,h2, h3,h4{
-		font-family: 'Montserrat',sans-serif;
+		font-family: "Proza Libre",sans-serif;
 	}
 	
 	ul, li, p {
